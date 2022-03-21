@@ -97,4 +97,4 @@ View my profile and contact me directly for any inquiry [Profile](https://franck
 
 ### Support or Contact
 
-Having trouble with Pages? Check out the [support page](https://www.opennms.com/support/) or [contact support](sales@opennms.com), and we’ll help you sort it out.
+Having trouble with Pages? Check out the [support page](https://www.opennms.com/support/), and we’ll help you sort it out.
