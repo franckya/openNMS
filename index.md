@@ -8,7 +8,6 @@ If you are following and deploying this server properly on your local machine, y
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
 Syntax highlighted code block
 
 ## Install PostgreSQL client and server 
@@ -84,22 +83,11 @@ Once the steps below are completed, you can now allow ports forwarding.
 
 !! Remember that everytime that you exite the console, your web page will not be accessible !!
 
-
-
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
 For more details see [OpenNMS Document Guide](https://docs.opennms.com/start-page/1.0.0/index.html).
 
 ### About the Author
 
-View my profile and contact me directly for any inquiry [Email](https://franckya.github.io/Yannick_Djomo/). `_config.yml` configuration file.
+View my profile and contact me directly for any inquiry [Email](https://franckya.github.io/Yannick_Djomo/).
 
 ### Support or Contact
 
