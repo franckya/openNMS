@@ -67,7 +67,7 @@ Enable Masquerade to allow port forwarding Note: In this section, you may need t
 ## Follow theses steps to open your firewall access
 
 ### Install: sudo dnf install firewalld
-### Enable: sudo systemctl enable
+### Enable: sudo systemctl enable firewalld
 ### Start: sudo systemctl start firewalld
 ### Status: sudo systemctl status firewalld
 
