@@ -64,7 +64,8 @@ sudo /usr/share/opennms/bin/install -dis
 
 Enable Masquerade to allow port forwarding Note: In this section, you may need to enable the firewall service before applying the set below. Remember, you need to have su privileges in order to do so.
 
-## Open Firewalls
+## Follow theses steps to open your firewall access
+
 ### Install: sudo dnf install firewalld
 ### Enable: sudo systemctl enable
 ### Start: sudo systemctl start firewalld
@@ -73,9 +74,13 @@ Enable Masquerade to allow port forwarding Note: In this section, you may need t
 Once the steps below are completed, you can now allow ports forwarding.
 
 -> sudo firewall-cmd --permanent --add-masquerade Forward SNMP Trap UDP port 162 to 10162
+
 -> sudo firewall-cmd --permanent --add-port=162/udp
+
 -> sudo firewall-cmd --permanent --add-port=10162/udp
+
 -> sudo firewall-cmd --permanent --add-forward-port=port=162:proto=udp:toport=10162
+
 -> sudo systemctl reload firewalld
 
 
