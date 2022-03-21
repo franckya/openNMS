@@ -1,4 +1,4 @@
-## Welcome to OpenNMS with CentOS 8
+## Thank You For Choosing OpenNMS As Your Monitoring Software 💻
 
 You can [Install With CentOS 8](https://github.com/franckya/openNMS.git) as this is an open source running on Linux distributions.
 
