@@ -1,4 +1,5 @@
-## Thank You For Choosing OpenNMS As Your Monitoring Software 💻. Interesting in learning more about the software? [Click] (https://www.opennms.com/) to vist our webpage.
+## Thank You For Choosing OpenNMS As Your Monitoring Software 💻. 
+### Interesting in learning more about the software? [Click](https://www.opennms.com/) to vist our webpage.
 
 You can [Install With CentOS 8](https://github.com/franckya/openNMS.git) as this is an open source running on Linux distributions.
 
