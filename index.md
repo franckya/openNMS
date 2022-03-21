@@ -93,8 +93,8 @@ For more details see [OpenNMS Document Guide](https://docs.opennms.com/start-pag
 
 ### About the Author
 
-View my profile and contact me directly for any inquiry [Email](https://franckya.github.io/Yannick_Djomo/).
+View my profile and contact me directly for any inquiry [Profile](https://franckya.github.io/Yannick_Djomo/).
 
 ### Support or Contact
 
-Having trouble with Pages? Check out the support page[d](https://www.opennms.com/support/) or [contact support](sales@opennms.com) and we’ll help you sort it out.
+Having trouble with Pages? Check out the [support page](https://www.opennms.com/support/) or [contact support](sales@opennms.com), and we’ll help you sort it out.
