@@ -84,7 +84,8 @@ Once the steps below are completed, you can now allow ports forwarding.
 -> sudo systemctl reload firewalld
 
 
-# After you log out, to log back in, and make sure your instance is running; you can perform the command: to launch it.
+# After you log out, to log back in, and make sure your instance is running; you can perform the command: ssh -L 4000:localhost:80 root@1.1.1.1 to launch it.
+Note: root should be your username for your server, and 1.1.1.1 should be replaced by the ip address of your server. 
 
 !! Remember that everytime that you exite the console, your web page will not be accessible !!
 
