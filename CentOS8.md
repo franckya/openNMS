@@ -133,3 +133,5 @@ Use admin as the current password then type and confirm a new password in the ap
 Click Submit.
 
 Log out, then log in with your new password.
+
+You are now an OpenNMS User, Enjoy...
